@@ -5,8 +5,8 @@ import { fileURLToPath } from 'url'
 
 /*========= GLOBAL APIKEY =========*/
 // ISI APIKEY KALIAN DI BAGIAN 'ENTER YOUR APIKEY' SIMBOL JANGAN DI HAPUS
-global.btc = 'Enter your apikey' // apikey Botchax
-global.lann = 'Enter your apikey' // apikey Beta
+global.btc = '69vzKwyC' // apikey Botchax
+global.lann = 'cqRwjbUP' // apikey Beta
 
 
 
@@ -18,8 +18,8 @@ global.APIs = {
 } 
 
 global.APIKeys = {
-  'https://api.betabotz.eu.org': 'Enter your apikey',
-  'https://api.botcahx.eu.org': 'Enter your apikey'
+  'https://api.betabotz.eu.org': 'cqRwjbUP',
+  'https://api.botcahx.eu.org': '69vzKwyC'
 }
 
 
@@ -27,53 +27,53 @@ global.APIKeys = {
 /*============ NOMOR ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
 global.info = {
-	nomorbot: '62882257504889',
-	nomorown: '6281283516246',
-	namebot: 'Assisten YuLa',
-	nameown: 'Maximus Store',
-	channel: '120363241570452835@newsletter',
-	namechannel: 'XM4ZE | Whatsapp Bots'
+	nomorbot: '62857059457516',
+	nomorown: '19419318284',
+	namebot: '𝑨𝒔𝒕𝒓𝒐𝒔𝒑𝒂𝒄𝒆𝑴𝑫',
+	nameown: 'ー Mαnzz',
+	channel: '120363232705577205@newsletter',
+	namechannel: 'Astrospace | Whatsapp Bots'
 }
 
 
 
 /*============ OWNER ============*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.owner = ['6281283516246'] // Ganti pakai nomor kalian
-global.xmaze = ['6281283516246'] // Ganti pakai nomor kalian
+global.owner = ['19419318284'] // Ganti pakai nomor kalian
+global.xmaze = ['19419318284'] // Ganti pakai nomor kalian
 
-global.mods = ['6288225750488'] // Opsional boleh ganti atau tidak 
-global.prems = ['6281283516246', '6288225750488'] // Opsional boleh ganti atau tidak 
+global.mods = ['19419318284'] // Opsional boleh ganti atau tidak 
+global.prems = ['19419318284', '19419318284'] // Opsional boleh ganti atau tidak 
 
 
 
 /*=========== WATERMARK ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.wm = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.author = 'XM4ZE' // Opsional boleh ganti atau tidak 
-global.stickpack = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak 
+global.wm = '𝑨𝒔𝒕𝒓𝒐𝒔𝒑𝒂𝒄𝒆𝑴𝑫' // Opsional boleh ganti atau tidak 
+global.author = 'ー Mαnzz' // Opsional boleh ganti atau tidak 
+global.stickpack = 'Created by' // Opsional boleh ganti atau tidak 
+global.stickauth = 'WhatsApp Bots' // Opsional boleh ganti atau tidak 
 
 
 
 /*=========== TEXT & IMAGE ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.nameown = 'Maximus Store' // Ganti jadi nama kalian
-global.waown = 'wa.me/6281283516246' // ganti nomor tanpa menghilangkan wa.me/
-global.mail = 'maximusstoreindonesia@gmail.com' // boleh taruh email kalian
-global.fb = 'https://facebook.com/maximusstoreindonesia' // boleh taruh link fb kalian
-global.ig = 'https://instagram.com/maximusstore.id' // boleh taruh link ig kalian
-global.gcbot = 'https://whatsapp.com/channel/0029VaL28ZqFSAtCdSU5EX0M' // boleh taruh link group kalian
-global.qris = 'https://telegra.ph/file/f11ccd2ca8a5136aacfb3.jpg' // Wajib isi untuk pembayaran. isi dengan qris
+global.nameown = 'ー Mαnzz' // Ganti jadi nama kalian
+global.waown = 'wa.me/19419318284' // ganti nomor tanpa menghilangkan wa.me/
+global.mail = 'frmnzzx@gmail.com' // boleh taruh email kalian
+global.fb = 'https://facebook.com/' // boleh taruh link fb kalian
+global.ig = 'https://instagram.com/' // boleh taruh link ig kalian
+global.gcbot = 'https://chat.whatsapp.com/Gtcectx7SUcAy21Rk4s851' // boleh taruh link group kalian
+global.qris = 'https://pomf2.lain.la/f/whz0ag51.jpg' // Wajib isi untuk pembayaran. isi dengan qris
 global.vn = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/KARA.mp3?raw=true' // Allmenu Voice
 
 
 
 /*=========== THUMBNAIL ===========*/
 global.thumvid = 'https://github.com/XM4ZE/DATABASE/raw/master/wallpaper/Vid_20240220_073653.mp4?raw=true' // Allmenu Video thumbnail
-global.welcome = '' // [OPSIONAL] isi dengan link thumbnail welcome kalian
-global.leave = '' // [OPSIONAL] isi dengan link thumbnail leave kalian
-global.maximus = '' // [OPSIONAL] isi dengan link thumbnail kalian. link ini akan muncul di semua menu dan taruh di tengah-tengah simbol itu
+global.welcome = 'https://pomf2.lain.la/f/tb9z7746.jpg' // [OPSIONAL] isi dengan link thumbnail welcome kalian
+global.leave = 'https://pomf2.lain.la/f/tb9z7746.jpg' // [OPSIONAL] isi dengan link thumbnail leave kalian
+global.maximus = 'https://pomf2.lain.la/f/tk3ron6a.jpg' // [OPSIONAL] isi dengan link thumbnail kalian. link ini akan muncul di semua menu dan taruh di tengah-tengah simbol itu
 
 
 
@@ -96,7 +96,7 @@ function pickRandom(list) {
   return list[Math.floor(list.length * Math.random())]
 }
 global.xmenus = 'https://raw.githubusercontent.com/XM4ZE/DATABASE/master/wallpaper/publicmenus.json'
-global.multiplier = 38
+global.multiplier = 100
 global.wait = '*Starting Processing . . .*'
 global.eror = '*Failed to process . . .*'
 global.maxwarn = '2'
